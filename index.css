@@ -1,0 +1,40 @@
+
+.calculator{
+    background-color: #415b48;
+    border-radius: 35px;
+    width: 429px;
+    padding: 11px;
+    text-align: center;
+    height: 381px;
+}
+
+body{
+    padding: 0%;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    background-image: url('howl.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+input{
+    width: 78px;
+    height: 45px;
+    font-size: 35px;
+    border-radius: 21px;
+    margin: 7px;
+    background-color: #2d4e48;
+    color: #ddd5cb;  
+    border-style: none;
+    
+}
+.btn:hover{
+    background-color: #635e5f;
+    cursor: pointer;
+
+
+}
